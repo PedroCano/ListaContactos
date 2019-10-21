@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/icono1"
+        android:orderInCategory="100"
+        android:title=""
+        android:icon="@drawable/icono2"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/icono3"
+        android:orderInCategory="100"
+        android:title=""
+        android:icon="@drawable/icono3"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/icono2"
+        android:orderInCategory="100"
+        android:title=""
+        android:icon="@drawable/icono1"
+        app:showAsAction="always" />
+
+</menu>
